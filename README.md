@@ -1,12 +1,12 @@
 # 👋 Hello! I'm Atharv Singh
 
 🎓 Final Year B.Tech CSE (AI & ML) Student  
-🤖 Passionate about Robotics, IoT, Machine Learning & Data Engineering  
-🛠️ Building smart systems that solve real-world problems using sensors, AI, and data
+🤖 Passionate about Machine Learning , Data Science , Robotics & IoT   
+🛠️ Building predictive and smart systems that solve real-world problems using sensors, AI, and data
 
 ---
 
-## 🚀 Top Projects
+## 🚀 Projects
 
 ## 📊 Zomato Restaurant Data Analysis
 
