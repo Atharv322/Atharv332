@@ -68,4 +68,4 @@ Analyzed Zomato's restaurant dataset to uncover trends in pricing, ratings, cuis
 - 📧 Email: [atharvsingh767@gmail.com](mailto:atharvsingh767@gmail.com)  
 - 🔗 LinkedIn: [linkedin.com/in/atharv-singh-888408256](https://www.linkedin.com/in/atharv-singh-888408256)  
 - 🛠️ GitHub: [github.com/Atharv322](https://github.com/Atharv322)
-- 🔗 Resume: 
+- 🔗 Resume: (https://drive.google.com/drive/u/0/folders/18ODCC4ccv85jbVFSe9CJN_k3XbDAm487)
